@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @mbisaya
-- 👀 I’m interested in Photography, Mountain Climbing and Solo Travelling
-- 🌱 I’m currently learning Ansible and its structure
-- 💞️ I’m looking to collaborate on Linux, Big Data or Ansible ideas and tips!
+
 - 📫 You can reach me on czarinabisaya@gmail.com
 
 <!---
